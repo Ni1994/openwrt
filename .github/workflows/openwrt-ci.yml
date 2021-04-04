@@ -72,6 +72,24 @@ jobs:
           CONFIG_TARGET_bcm27xx_bcm2711_DEVICE_rpi-4=y
           CONFIG_LUCI_LANG_zh_Hans=y
           CONFIG_OPENSSL_ENGINE=y
+          CONFIG_OPENSSL_WITH_ASM=y
+          CONFIG_OPENSSL_WITH_CHACHA_POLY1305=y
+          CONFIG_OPENSSL_WITH_CMS=y
+          CONFIG_OPENSSL_WITH_DEPRECATED=y
+          CONFIG_OPENSSL_WITH_ERROR_MESSAGES=y
+          CONFIG_OPENSSL_WITH_PSK=y
+          CONFIG_OPENSSL_WITH_SRP=y
+          CONFIG_OPENSSL_WITH_TLS13=y
+          CONFIG_PACKAGE_cgi-io=y
+          CONFIG_PACKAGE_chat=y
+          CONFIG_PACKAGE_comgt=y
+          CONFIG_PACKAGE_edgeport-firmware=y
+          CONFIG_PACKAGE_frpc=y
+          CONFIG_PACKAGE_frps=y
+          CONFIG_PACKAGE_ip-tiny=y
+          CONFIG_PACKAGE_ipset=y
+          CONFIG_PACKAGE_iptables-mod-conntrack-extra=y
+          CONFIG_PACKAGE_iptables-mod-ipopt=y
           EOF
           #
           # ===============================================================
