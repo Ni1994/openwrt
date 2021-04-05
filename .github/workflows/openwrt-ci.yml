@@ -99,6 +99,36 @@ jobs:
           CONFIG_PACKAGE_kmod-ipt-ipopt=y
           CONFIG_PACKAGE_kmod-ipt-ipset=y
           CONFIG_PACKAGE_kmod-ipt-raw=y
+          CONFIG_PACKAGE_kmod-lib-crc16=y
+          CONFIG_PACKAGE_kmod-libphy=y
+          CONFIG_PACKAGE_kmod-mii=y
+          CONFIG_PACKAGE_kmod-nfnetlink=y
+          CONFIG_PACKAGE_kmod-random-core=y           CONFIG_PACKAGE_kmod-sched-connmark=y
+          CONFIG_PACKAGE_kmod-sched-core=y
+          CONFIG_PACKAGE_kmod-scsi-core=y
+          CONFIG_PACKAGE_kmod-usb-acm=y
+          CONFIG_PACKAGE_kmod-usb-atm=y
+          CONFIG_PACKAGE_kmod-usb-atm-cxacru=y
+          CONFIG_PACKAGE_kmod-usb-atm-speedtouch=y
+          CONFIG_PACKAGE_kmod-usb-atm-ueagle=y
+          CONFIG_PACKAGE_kmod-usb-cm109=y
+          CONFIG_PACKAGE_kmod-usb-dwc2=y
+          CONFIG_PACKAGE_kmod-usb-dwc3=y
+          CONFIG_PACKAGE_kmod-usb-ehci=y
+          CONFIG_PACKAGE_kmod-usb-gadget=y
+          CONFIG_PACKAGE_kmod-usb-gadget-cdc-composite=y
+          CONFIG_PACKAGE_kmod-usb-gadget-ehci-debug=y
+          CONFIG_PACKAGE_kmod-usb-gadget-eth=y 
+          CONFIG_PACKAGE_kmod-usb-gadget-hid=y
+          CONFIG_PACKAGE_kmod-usb-gadget-mass-storage=y
+          CONFIG_PACKAGE_kmod-usb-gadget-serial=y
+          CONFIG_PACKAGE_kmod-usb-hid-cp2112=y
+          CONFIG_PACKAGE_kmod-usb-ledtrig-usbport=y
+          CONFIG_PACKAGE_kmod-usb-lib-composite=y
+          CONFIG_PACKAGE_kmod-usb-net=y
+          CONFIG_PACKAGE_kmod-usb-net-aqc111=y
+          CONFIG_PACKAGE_kmod-usb-net-asix=y
+          CONFIG_PACKAGE_kmod-usb-net-asix-a
           EOF
           #
           # ===============================================================
