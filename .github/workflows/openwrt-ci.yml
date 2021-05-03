@@ -693,7 +693,6 @@ jobs:
           CONFIG_PACKAGE_libubus-lua=y
           CONFIG_PACKAGE_libuci=y
           CONFIG_PACKAGE_libuclient=y
-#         CONFIG_PACKAGE_libustream-openssl=y
           CONFIG_PACKAGE_libuuid=y
           CONFIG_PACKAGE_rpcd-mod-luci=y
           CONFIG_PACKAGE_rpcd-mod-rrdns=y
