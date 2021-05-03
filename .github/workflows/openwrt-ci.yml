@@ -105,7 +105,6 @@ jobs:
           CONFIG_DEFAULT_kmod-usb-hid=y
           CONFIG_DEFAULT_libc=y
           CONFIG_DEFAULT_libgcc=y
-          CONFIG_DEFAULT_libustream-wolfssl=y
           CONFIG_DEFAULT_logd=y
           CONFIG_DEFAULT_mkf2fs=y
           CONFIG_DEFAULT_mtd=y
@@ -695,7 +694,6 @@ jobs:
           CONFIG_PACKAGE_libuci=y
           CONFIG_PACKAGE_libuclient=y
           CONFIG_PACKAGE_libustream-openssl=y
-          CONFIG_PACKAGE_libustream-wolfssl=y
           CONFIG_PACKAGE_libuuid=y
           CONFIG_PACKAGE_rpcd-mod-luci=y
           CONFIG_PACKAGE_rpcd-mod-rrdns=y
